@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ](https://www.prismetric.com/bolt-new-alternatives/)
+(https://www.figma.com/design/GYDpStUx4X9uete5BDaKFG/Find-Your-Dream-Home-Website-UI-Template--Community-?t=cJAxXEFetSobar0A-0)
