@@ -1,6 +1,6 @@
 <!-- Animated Tech/Role Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&width=700&lines=Hi%2C+I'm+Adedokun+Peter+Akintomiwa.;I+am+a+Full+Stack+Software+Engineer.;I+build+frontend%2C+backend%2C+and+cloud+solutions.;I+love+contributing+to+open+source.;I+am+always+learning+and+growing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&width=700&lines=Hi%2C+I'm+Adedokun+Peter+Akintomiwa.;I+am+a+Full+Stack+Software+Engineer.;I+build+frontend%2C+backend+solutions.;I+love+contributing+to+open+source.;I+am+always+learning+and+growing." alt="Typing SVG" />
 </p>
 
 <p align="center">
