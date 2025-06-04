@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akintomiwa200&label=Profile+Views&color=36bcf7" alt="Profile Views"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Full%20Stack%20Developer&width=800&height=100" alt="Developer Banner"/>
 </p>
 
 ---
@@ -45,11 +45,7 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -60,7 +56,7 @@ I am committed to continuous learning and personal growth in the ever-evolving w
   <a href="https://x.com/herkintormiwer" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"></a>
   <a href="https://github.com/akintomiwa200" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://linkedin.com/in/akintomiwa-peter" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:herkintormiwer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:akintomiwa200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
