@@ -45,7 +45,7 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/akintomiwa200/akintomiwa200/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="./github/workflows/snake.yml" alt="Contribution Snake Animation" />
 </p>
 
 ---
