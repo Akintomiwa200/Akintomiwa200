@@ -15,9 +15,9 @@
 
 ## 👋 About Me
 
-Hi, I'm **Adedokun Peter Akintomiwa**, a passionate and experienced Full Stack Software Engineer.  
-I specialize in building robust frontend interfaces, developing scalable backend systems, and deploying cloud-based solutions.  
-My enthusiasm for open source drives me to contribute to global communities and collaborate with other developers.  
+Hi, I'm **Adedokun Peter Akintomiwa**, a passionate and experienced Full Stack Software Engineer. 
+I specialize in building robust frontend interfaces, developing scalable backend systems, and deploying cloud-based solutions. 
+My enthusiasm for open source drives me to contribute to global communities and collaborate with other developers. 
 I am committed to continuous learning and personal growth in the ever-evolving world of technology.
 
 ---
@@ -33,33 +33,35 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akintomiwa200&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="./github/workflows/snake.yml" alt="Contribution Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://x.com/herkintormiwer" target="_blank"><img src="https://img.shields.io/badge/X-blue?logo=twitter&logoColor=white" alt="X/Twitter"></a>
-  <a href="https://github.com/akintomiwa200" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <!-- Add more socials as desired -->
+  <a href="https://x.com/herkintormiwer" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"></a>
+  <a href="https://github.com/akintomiwa200" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Striving for elegant solutions, one line of code at a time.”</i>
+  <i>"Striving for elegant solutions, one line of code at a time."</i>
 </p>
