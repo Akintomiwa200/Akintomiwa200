@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/main/developer.gif" alt="Developer Illustration" width="350"/>
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=700&q=80" alt="Developer Illustration" width="350"/>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ## 👋 About Me
 
-Hi, I'm **Adedokun Peter Akintomiwa**, a passionate and experienced Full Stack Software Engineer. 
-I specialize in building robust frontend interfaces, developing scalable backend systems, and deploying cloud-based solutions. 
-My enthusiasm for open source drives me to contribute to global communities and collaborate with other developers. 
+Hi, I'm **Adedokun Peter Akintomiwa**, a passionate and experienced Full Stack Software Engineer.  
+I specialize in building robust frontend interfaces, developing scalable backend systems, and deploying cloud-based solutions.  
+My enthusiasm for open source drives me to contribute to global communities and collaborate with other developers.  
 I am committed to continuous learning and personal growth in the ever-evolving world of technology.
 
 ---
