@@ -4,11 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=700&q=80" alt="Developer Illustration" width="350"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation" width="500"/>
 </p>
 
+<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Full%20Stack%20Developer&width=800&height=100" alt="Developer Banner"/>
+  <img src="https://komarev.com/ghpvc/?username=akintomiwa200&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -30,22 +31,44 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=tokyonight&count_private=true&hide=issues&cache_seconds=1800" alt="GitHub Stats" />
   <br>
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akintomiwa200&theme=tokyonight" alt="GitHub Streak" />
   <br>
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" />
+  <br>
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akintomiwa200&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=akintomiwa200" alt="Contribution Stats" />
+</p>
+
+---
+
+## 🏆 GitHub Profile Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akintomiwa200&theme=tokyonight" alt="Profile Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akintomiwa200&theme=tokyonight" alt="Repos Per Language" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akintomiwa200&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
