@@ -13,8 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: output
+
+      - name: Create output branch if it doesn't exist
+        run: |
+          git checkout -b output || git checkout output
+          git push -u origin output || true
 
       - name: Create output directory
         run: mkdir -p output
@@ -32,4 +35,4 @@ jobs:
           git config --global user.email "action@github.com"
           git add output/
           git commit -m "chore: update contribution snake svg"
-          git push
+          git push origin output
