@@ -59,6 +59,11 @@ I am committed to continuous learning and personal growth in the ever-evolving w
   <img src="https://github-contribution-stats.vercel.app/api/?username=akintomiwa200" alt="Contribution Stats" />
 </p>
 
+<!-- Contribution Snake Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 ---
 
 ## 🏆 GitHub Profile Achievements
