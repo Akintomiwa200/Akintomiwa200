@@ -122,9 +122,8 @@ RESTful API for multi-language translation using FastAPI and transformer models,
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&column=7&v=2" />
 </p>
-
 ---
 
 ## 📫 Connect With Me
