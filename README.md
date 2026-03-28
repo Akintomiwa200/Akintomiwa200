@@ -100,8 +100,6 @@ RESTful API for multi-language translation using FastAPI and transformer models,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akintomiwa200&theme=tokyonight" />
 </p>
 
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -122,8 +120,13 @@ RESTful API for multi-language translation using FastAPI and transformer models,
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&column=7&v=2" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6&v=2" 
+    alt="GitHub Trophies"
+  />
 </p>
+
+
 ---
 
 ## 📫 Connect With Me
