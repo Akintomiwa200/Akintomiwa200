@@ -1,6 +1,4 @@
-Here's the **complete, enhanced README** with working snake animation and professional updates:
 
-```markdown
 <!-- HEADER WITH TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Adedokun+Peter+Akintomiwa;Full+Stack+Software+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Solutions;Open+Source+Contributor" alt="Typing SVG" />
