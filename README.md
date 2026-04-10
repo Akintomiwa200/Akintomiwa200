@@ -22,16 +22,7 @@
 
 I'm a **Full Stack Software Engineer** passionate about building production-grade applications with clean, maintainable code and modern architecture patterns.
 
-```javascript
-const peter = {
-  code: ["TypeScript", "Go", "Python", "JavaScript", "C#"],
-  tools: ["React", "Next.js", "Node.js", "NestJS", "FastAPI", ".NET"],
-  cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
-  architecture: ["Microservices", "Event-Driven", "Serverless", "gRPC"],
-  currentFocus: "Building scalable microservices with Go & Kubernetes",
-  funFact: "I love automating everything! 🤖"
-};
-```
+
 
 - 🔭 **Currently:** Building **microservices architecture with Go and gRPC**
 - 🌱 **Learning:** Advanced Kubernetes patterns, System Design, Cloud-native observability
