@@ -136,7 +136,7 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 ## 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 🏆 GitHub Achievements
@@ -206,5 +206,5 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akintomiwa200&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
-```
+
 
