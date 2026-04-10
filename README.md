@@ -5,12 +5,12 @@ A brief description of your project and its purpose.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=tokyonight&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=tokyonight&langs_count=8&bg_color=0d1117&text_color=c9d1d9" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akintomiwa200&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=akintomiwa200&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Achievements
