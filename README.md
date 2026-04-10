@@ -90,10 +90,9 @@ RESTful API for multi-language translation using FastAPI and transformer models,
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=tokyonight&count_private=true&hide=issues&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=tokyonight&hide=html,css" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akintomiwa200&layout=compact&theme=tokyonight&hide=html,css" height="170" />
 </p>
 
 <p align="center">
@@ -118,10 +117,9 @@ RESTful API for multi-language translation using FastAPI and transformer models,
 ---
 
 ## 🏆 Achievements
-
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6&v=2" 
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"
     alt="GitHub Trophies"
   />
 </p>
