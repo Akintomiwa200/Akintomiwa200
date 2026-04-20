@@ -82,13 +82,25 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 
 ## 📌 Featured Projects
 
-### 🚀 **Realtime Chat Application**
-*MERN Stack | Socket.io | JWT | Docker*
-- Real-time messaging with typing indicators & read receipts
-- Media sharing (images, videos, files)
-- User presence & online status
-- End-to-end encryption
-- **[Live Demo](https://github.com/akintomiwa200)** | **[Repository](https://github.com/akintomiwa200)**
+
+
+### 🚀 **PMPath — Project Management Transition App**
+
+*Next.js 15 | TypeScript | Tailwind CSS | MongoDB | NextAuth*
+
+* Structured learning paths from beginner to PMP certification
+* Interactive roadmap with progress tracking & milestones
+* Adaptive quizzes with instant feedback & performance analytics
+* Gamified system with badges, streaks, and leaderboard
+* Mentorship matching system with AI guidance
+* Community forum with posts, replies, and moderation tools
+* Job board with alerts and career opportunities
+* Admin & Super Admin dashboards for full platform control
+* Dark mode, accessibility support, and text-to-speech features
+* Hybrid data system (MongoDB + JSON fallback for offline-ready usage)
+
+**[Live Demo](https://github.com/akintomiwa200)** | **[Repository](https://github.com/akintomiwa200/pmp)**
+
 
 ### 📱 AmstaPay Mobile App
 *Expo | React Native | TypeScript | Node.js | MongoDB*
