@@ -90,13 +90,20 @@ I'm a **Full Stack Software Engineer** passionate about building production-grad
 - End-to-end encryption
 - **[Live Demo](https://github.com/akintomiwa200)** | **[Repository](https://github.com/akintomiwa200)**
 
-### 🛒 **Microservices E-commerce Platform**
-*Go | gRPC | RabbitMQ | Kubernetes | MongoDB*
-- 6 microservices communicating via gRPC
-- Event-driven architecture with RabbitMQ
-- API Gateway with JWT authentication
-- Deployed on Kubernetes with auto-scaling
-- **[Repository](https://github.com/akintomiwa200)**
+### 📱 AmstaPay Mobile App
+*Expo | React Native | TypeScript | Node.js | MongoDB*
+
+- Secure digital wallet and payment system
+- Send and receive money instantly
+- QR-based payment system
+- JWT authentication with secure session handling
+- Cross-platform support (Android, iOS, Web)
+- Clean modern UI with dark/light mode support
+
+- 🚀 Built for fast, seamless financial transactions in Africa
+- 🔐 Focused on security, scalability, and user experience
+
+- **[Repository](https://github.com/akintomiwa200/amstapay)**
 
 ### 🌍 **AI-Powered Translation Service**
 *FastAPI | Transformers | React Native | Redis*
